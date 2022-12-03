@@ -77,17 +77,15 @@ harus dibayarkan setelah mendapatkan diskon.
 
 # Test Code
 Ada 4 Test yang diberikan pada modul ini.
-## Tes 1
-Menambahkan Item
+### Tes 1: Menambahkan Item
+![test 1](https://github.com/tgaufa/221204-Cashier/blob/main/Test%201.png)
 
-## Tes 2
-Menghapus satu item
-
-## Tes 3
-Menghapus semua item
-
-## Tes 4
-Menambahkan 4 item baru dan menghitung total harga yang sudah diberikan diskon
+### Tes 2: Menghapus satu item  
+![test 1](https://github.com/tgaufa/221204-Cashier/blob/main/Test%202.png)
+### Tes 3: Menghapus semua item  
+![test 1](https://github.com/tgaufa/221204-Cashier/blob/main/Test%203.png)
+### Tes 4: Menambahkan 4 item baru dan menghitung total harga yang sudah diberikan diskon  
+![test 1](https://github.com/tgaufa/221204-Cashier/blob/main/Test%204.png)
 
 # Kesimpulan
 Dengan membuat project ini maka user akan memiliki pengalaman terhadap hal-hal berikut:
