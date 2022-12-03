@@ -23,7 +23,7 @@ Semua function modul ini berada di dalam satu Class Transaction.
 
 ## 1. __init__
 Berfungsi untuk mendefinisikan parameter awal yaitu empty List yang akan digunakan oleh function-function dibawahnya. 
-Parameter self digunakan di semua method dibawah agar method tersebut dapat memanggil parameter list yang sudah didefinisikan di method __init__.
+Parameter self digunakan di semua method dibawah agar method dapat memanggil parameter list yang sudah didefinisikan di method __init__.
 
 ## 2. add_item
 Berfungsi untuk menambahkan item kedalam list dengan parameter berjumlah 3, yaitu: Nama, Qty, dan Harga. 
