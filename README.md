@@ -44,7 +44,7 @@ Berfungsi untuk memodifikasi item yang sudah ada di list dengan parameter berjum
 - name (any): Nama Barang
 - updateQty (any): Jumlah barang baru yang akan menggantikan Jumlah barang lama pada item nama yang diberikan
 
-### 5. update_item_price
+## 5. update_item_price
 Berfungsi untuk memodifikasi item yang sudah ada di list dengan parameter berjumlah 2, yaitu: Nama Sebelumnya dan Nama Setelahnya. 
 #### Parameter
 - name (any): Nama Barang
